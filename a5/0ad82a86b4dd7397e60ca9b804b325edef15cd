@@ -1,0 +1,19 @@
+README.md
+  s_d81fbbebdb52a6::t_802f33e3d7ab26 56-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "a50ad82a86b4dd7397e60ca9b804b325edef15cd",
+  "prompts": {},
+  "sessions": {
+    "s_d81fbbebdb52a6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "488cf007-5e5a-478e-933b-c6c3ece4f9ff",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Ajit Thyagarajan <ajthyaga@cisco.com>"
+    }
+  }
+}
