@@ -1,0 +1,19 @@
+docs/AUDIENCE-REFERENCE.md
+  s_d81fbbebdb52a6::t_73135c1ade2912 9-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "02a95a7888e540662892ee9d77a0afba50b10443",
+  "prompts": {},
+  "sessions": {
+    "s_d81fbbebdb52a6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "488cf007-5e5a-478e-933b-c6c3ece4f9ff",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Ajit Thyagarajan <ajthyaga@cisco.com>"
+    }
+  }
+}
