@@ -53,9 +53,9 @@ See [mcp-server/README.md](mcp-server/README.md) for full setup instructions.
 
 | Resource | Link |
 |----------|------|
-| CTB Documentation | https://www.cisco.com/go/ctb |
-| CTB REST API Reference | https://developer.cisco.com/docs/cisco-telemetry-broker/ |
-| CTB on DevNet | https://developer.cisco.com/cisco-telemetry-broker/ |
+| CTB Documentation | https://www.atomicmole.com/ctb-docs/ |
+| CTB REST API Reference | [docs/](docs/) |
+| Cisco Telemetry Broker | https://cs.co/telemetrybroker |
 | MCP Specification | https://modelcontextprotocol.io |
 | Claude Code | https://claude.ai/code |
 
