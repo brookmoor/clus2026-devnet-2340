@@ -73,20 +73,3 @@
                                       └─────────┘
 ```
 
----
-
-## Session Info
-
-**DEVNET-2340** — Cisco Telemetry Broker: From UI to API to AI
-Cisco Live US 2026
-
----
-
-*Scan for this page:*
-
-`[QR CODE PLACEHOLDER — generate at https://qr.io or similar pointing to a short URL with this content]`
-
-Suggested short URL: Create a bit.ly or cisco.com/go/ link pointing to either:
-- A GitHub gist with this content
-- The CTB DevNet page
-- A landing page you create with all links
